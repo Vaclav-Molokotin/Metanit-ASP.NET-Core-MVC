@@ -1,0 +1,55 @@
+D:\Data\ASP.NET\Areas\Areas\bin\Debug\net6.0\appsettings.Development.json
+D:\Data\ASP.NET\Areas\Areas\bin\Debug\net6.0\appsettings.json
+D:\Data\ASP.NET\Areas\Areas\bin\Debug\net6.0\Areas.exe
+D:\Data\ASP.NET\Areas\Areas\bin\Debug\net6.0\Areas.deps.json
+D:\Data\ASP.NET\Areas\Areas\bin\Debug\net6.0\Areas.runtimeconfig.json
+D:\Data\ASP.NET\Areas\Areas\bin\Debug\net6.0\Areas.dll
+D:\Data\ASP.NET\Areas\Areas\bin\Debug\net6.0\Areas.pdb
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.csproj.AssemblyReference.cache
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.AssemblyInfoInputs.cache
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.AssemblyInfo.cs
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.csproj.CoreCompileInputs.cache
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.MvcApplicationPartsAssemblyInfo.cache
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.RazorAssemblyInfo.cache
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.RazorAssemblyInfo.cs
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\staticwebassets\msbuild.Areas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\staticwebassets\msbuild.build.Areas.props
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Areas.props
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Areas.props
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\staticwebassets.build.json
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\staticwebassets.development.json
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\scopedcss\bundle\Areas.styles.css
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.dll
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\refint\Areas.dll
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.pdb
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\Areas.genruntimeconfig.cache
+D:\Data\ASP.NET\Areas\Areas\obj\Debug\net6.0\ref\Areas.dll
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\bin\Debug\net6.0\appsettings.Development.json
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\bin\Debug\net6.0\appsettings.json
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\bin\Debug\net6.0\Areas.exe
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\bin\Debug\net6.0\Areas.deps.json
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\bin\Debug\net6.0\Areas.runtimeconfig.json
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\bin\Debug\net6.0\Areas.dll
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\bin\Debug\net6.0\Areas.pdb
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.AssemblyInfoInputs.cache
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.AssemblyInfo.cs
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.csproj.CoreCompileInputs.cache
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.MvcApplicationPartsAssemblyInfo.cache
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.RazorAssemblyInfo.cache
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.RazorAssemblyInfo.cs
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\staticwebassets\msbuild.Areas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\staticwebassets\msbuild.build.Areas.props
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Areas.props
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Areas.props
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\staticwebassets.build.json
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\staticwebassets.development.json
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\scopedcss\bundle\Areas.styles.css
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.dll
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\refint\Areas.dll
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.pdb
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\Areas.genruntimeconfig.cache
+D:\Data\C#\ASP.NET\Metanit ASP.NET MVC\08_Areas\Areas\obj\Debug\net6.0\ref\Areas.dll

@@ -1,0 +1,33 @@
+﻿@using MvcApp.Controllers;
+@functions
+{
+    public int Sum(int a, int b)
+    {
+        return a + b;
+    }
+}
+
+@model List<string>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h2>@ViewData["Message"]</h2>
+    @{
+        Person person = (Person)(ViewData["Person"]);
+        <p>@person.Name</p>
+        <p>@person.Age</p>
+    }
+
+    <ul>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <li>@Model[i]</li>
+        }
+    </ul>
+</body>
+</html>

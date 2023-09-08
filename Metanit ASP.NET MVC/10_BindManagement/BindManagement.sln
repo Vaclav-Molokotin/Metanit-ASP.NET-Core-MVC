@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindManagement", "BindManagement\BindManagement.csproj", "{65190040-607F-461C-90FA-29E7B6B37648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65190040-607F-461C-90FA-29E7B6B37648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65190040-607F-461C-90FA-29E7B6B37648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65190040-607F-461C-90FA-29E7B6B37648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65190040-607F-461C-90FA-29E7B6B37648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82F98A4C-774D-4F33-B284-6D194507D896}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿@using BindModel.Models;
+@model IEnumerable<Event>
+<form method="get" action="Home/Create">
+<input type="submit" value="Добавить"/>
+<h2>Все события</h2>
+<table>
+    @foreach (var eventInfo in Model)
+    {
+        <tr><td>@eventInfo.Id</td><td>@eventInfo.Name</td><td>@eventInfo.EventDate</td></tr>
+    }
+</table>
+</form>

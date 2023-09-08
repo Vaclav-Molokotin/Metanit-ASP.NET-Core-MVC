@@ -1,0 +1,15 @@
+﻿@model StronglyTypedHelpers.Models.User
+@using (Html.BeginForm("Create", "Home", FormMethod.Post))
+{
+    <p>
+        @Html.LabelFor(m=>m.Name, "Имя")<br />
+        @Html.TextBoxFor(m=>m.Name)
+    </p>
+    <p>
+        @Html.LabelFor(m => m.Age, "Возраст")<br />
+        @Html.TextBoxFor(m => m.Name, "", new { type = "number" })
+    </p>
+    <p>
+        <input type="submit" value="Отправить" />
+    </p>
+}

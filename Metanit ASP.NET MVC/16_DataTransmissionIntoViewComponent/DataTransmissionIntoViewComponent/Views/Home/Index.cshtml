@@ -1,0 +1,29 @@
+﻿@using DataTransmissionIntoViewComponent.Models;
+@addTagHelper *, DataTransmissionIntoViewComponent
+
+@model List<Person>
+
+<p>
+    24-часовой формат с секундами: <br />
+    @await Component.InvokeAsync("Timer", new { includeSeconds = true, format24 = true})
+</p>
+
+<p>
+    24-часовой формат без секунд<br />
+    <vc:timer include-seconds="false" format24="true"></vc:timer>
+</p>
+
+<p>
+    12-часовой формат с секундами: <br />
+    @await Component.InvokeAsync("Timer", new { includeSeconds = true, format24 = false})
+</p>
+
+<p>
+    12-часовой формат без секунд<br />
+    <vc:timer include-seconds="false" format24=false></vc:timer>
+</p>
+
+<p>
+    Информация о пользователях:
+    @await Component.InvokeAsync("PersonInfo", new { persons = Model })
+</p>

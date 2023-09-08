@@ -1,0 +1,6 @@
+﻿@using System.Text;
+@model StringBuilder
+
+@Model.ToString()
+
+@{await Html.RenderPartialAsync("Hello", new Random().Next(1900, 34255));}

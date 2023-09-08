@@ -1,0 +1,31 @@
+﻿@using Models.Models;
+@using Models.ViewModels;
+@model IndexViewModel
+
+<style>
+	select
+	{
+		width: 400px;
+	}
+</style>
+
+<form method="post">
+	Выберите компанию:
+	<select name="companyName" >
+		<option value="Все" selected="selected"></option>
+		@foreach(CompanyModel company in Model.Companies)
+		{
+			<option value="@company.Name">@company.Name</option>
+		}
+	</select>
+
+	<input type="submit" />
+	<br />
+	<table class="table">
+		<tr><td>Name</td><td>Company</td><td>Age</td></tr>
+		@foreach(Person person in Model.People)
+		{
+			<tr><td>@person.Name</td><td>@person.Work.Name</td><td>@person.Age</td></tr>
+		}
+	</table>
+</form>

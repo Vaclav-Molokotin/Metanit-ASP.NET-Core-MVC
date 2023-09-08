@@ -1,0 +1,28 @@
+﻿@using EntityFrameworkWork.Models;
+@model IEnumerable<User>
+
+<table>
+    <tr>
+        <th>Имя</th>
+        <th>Возраст</th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (User user in Model)
+    {
+        <tr>
+            <td>@user.Name</td>
+            <td>@user.Age</td>
+            <td>
+                <a asp-action="Edit" asp-controller="Home" asp-route-id="@user.Id">Редактировать</a>
+            </td>
+            <td>
+                <form asp-controller="Home" asp-action="Delete" method="post" asp-route-id="@user.Id">
+                    <input type="submit" value="Удалить" />
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+
+<p><a asp-action="Create">Добавить пользователя</a></p>

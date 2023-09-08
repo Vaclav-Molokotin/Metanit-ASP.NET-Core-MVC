@@ -1,0 +1,12 @@
+﻿@{
+	ViewBag.Title = "About";
+}
+<h3>About Content</h3>
+
+@section Footer
+{
+	@for (int i = 0; i < 3; i++)
+	{
+		@: Copyright© Metanit.com, @DateTime.Now.Year . All rights reserved (About)<br>
+	}
+}

@@ -1,0 +1,11 @@
+﻿@using HtmlHelpersToForm
+
+@using (Html.BeginForm("ChooseTimeOfDay", "Home", FormMethod.Post))
+{
+    @Html.DropDownList("daytime", Html.GetEnumSelectList(typeof(TimeOfDay)))
+    <br />
+    <p>
+        <input type="submit" value="Отправить" />
+    </p>
+}
+

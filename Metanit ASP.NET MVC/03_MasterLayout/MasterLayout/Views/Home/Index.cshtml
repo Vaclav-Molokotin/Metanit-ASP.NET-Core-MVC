@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Person person = new Person("ye", 14);
+}
+<h3>Index Content</h3>
+@person.Name
+
+@person.Age
+
+@section Footer
+{
+    @for(int i = 0; i < 3; i++)
+    {
+        @: Copyright© Metanit.com, @DateTime.Now.Year . All rights reserved (Index)<br>
+    }
+}

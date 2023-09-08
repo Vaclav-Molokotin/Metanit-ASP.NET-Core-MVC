@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "gEr6GddHMuKPkjJ5LOuDBotQZIOLECZq3XefO+aFjtE=",
+  "Source": "MvcApp",
+  "BasePath": "_content/MvcApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MvcApp\\wwwroot",
+      "Source": "MvcApp",
+      "ContentRoot": "D:\\Data\\ASP.NET\\MvcApp\\MvcApp\\wwwroot\\",
+      "BasePath": "_content/MvcApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Data\\ASP.NET\\MvcApp\\MvcApp\\wwwroot\\Files\\Hello.txt",
+      "SourceId": "MvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Data\\ASP.NET\\MvcApp\\MvcApp\\wwwroot\\",
+      "BasePath": "_content/MvcApp",
+      "RelativePath": "Files/Hello.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Hello.txt"
+    }
+  ]
+}
